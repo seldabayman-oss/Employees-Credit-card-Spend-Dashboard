@@ -19,6 +19,5 @@ Key Objectives: Visualize Spending Trends: Monthly and yearly spending trends we
 
 Insights and Outcomes By analyzing credit card spend data, this project aims to help businesses:
 
-Card_5
 
 Improve budget management and identify cost-saving opportunities. Enhance financial decision-making with clear, data-driven insights. Understand departmental spending behaviors to optimize resource allocation. Feel free to explore the Power BI dashboards and the data analysis techniques used in this project!
